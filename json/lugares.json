@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "barrio":"Palermo",
+        "nombreLugar":"Parque las Heras", 
+        "ubicacion":"Av. Cnel. Díaz 2500", 
+        "descripcion":"El parque Las Heras es un parque público ubicado en el barrio de Palermo con un área de casi 12 ha, está delimitado por las avenidas General Las Heras y Coronel Díaz, y las calles Jerónimo Salguero y Juncal. Aparte de ser un muy lindo espacio verde, el parque cuenta con un un perímetro de 1.250 mts. El nombre del Parque procede de la avenida que lo ladea por el este y el nombre de esta avenida homenajea al militar patriota argentino Juan Gualberto Gregorio de las Heras.",
+        "link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1642.4078861866608!2d-58.406284600000006!3d-34.5835278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb56029c809a1%3A0xdafd25ed9a860bd9!2sJade%20Plaza!5e0!3m2!1ses-419!2sar!4v1666019730479!5m2!1ses-419!2sar",
+        "img1":"img/heras1.jpg",
+        "img2":"img/heras2.jpg",
+        "img3":"img/heras3.jpg"
+      
+    },
+    {
+        "id": 2,
+        "barrio":"Palermo",
+        "nombreLugar":"Jardín Botánico Carlos Thays", 
+        "ubicacion":"Gral. Las Heras 4266", 
+        "descripcion":"El Jardín Botánico de Buenos Aires llamado, desde 1937, Carlos Thays en honor al paisajista Carlos Thays que lo concibió y, desde 2011, Gerencia Operativa Jardín Botánico Carlos Thays se encuentra próximo a los bosques del barrio de Palermo de la mencionada ciudad. Su extensión es de 79.772 m², posee más de 1500 especies vegetales, cuenta con numerosas esculturas  y magníficos grupos escultóricos. Posee además cinco invernáculos, una biblioteca botánica y una biblioteca infantil, todo rodeado de serenos senderos para caminar y contemplar la variada vegetación.",
+        "link":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3284.9381624970856!2d-58.4254394!3d-34.5804312!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb581fe35595f%3A0x801e76c3f778715e!2sJard%C3%ADn%20Bot%C3%A1nico%20Carlos%20Thays!5e0!3m2!1ses-419!2sar!4v1666019629354!5m2!1ses-419!2sar",
+        "img1":"img/heras1.jpg",
+        "img2":"img/heras2.jpg",
+        "img3":"img/heras3.jpg"
+    },
+    {
+        "id": 3,
+        "barrio":"Palermo",
+        "nombreLugar":"Jardín Japonés", 
+        "ubicacion":"Av. Casares 3450", 
+        "descripcion":"Fue inaugurado en 1967, con motivo de la visita del entonces príncipe heredero del Japón, Akihito, y su esposa, Michiko, quienes hoy son los emperadores de esta nación. La belleza paisajística de sus paseos a través de lagos habitados por peces carpas y cruzados por puentes típicos no es la única razón para visitar el Jardín Japonés. Dentro de este espacio, un centro cultural ofrece cursos, charlas y exposiciones sobre distintas disciplinas japonesas.",
+        "link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1642.5561504958378!2d-58.41071091535371!3d-34.5760248928059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb57a4147c5c7%3A0xfc930bf72fdf871f!2zSmFyZMOtbiBKYXBvbsOpcw!5e0!3m2!1ses-419!2sar!4v1666059563044!5m2!1ses-419!2sar",
+        "img1":"img/heras1.jpg",
+        "img2":"img/heras2.jpg",
+        "img3":"img/heras3.jpg"
+    },
+    {
+        "id": 4,
+        "barrio":"Puerto Madero",
+        "nombreLugar":"Plaza Haroldo Conti", 
+        "ubicacion":"Calabria y Padre M. L. Migone", 
+        "descripcion":"Proyecto especial para la Plaza Haroldo Conti en el barrio de Puerto Madero de Comuna 1, para niños de 4 a 12 años. La temática elegida para el proyecto fueron los vehículos y los medios de transporte. Buscando como objetivo que los chicos aprendan sobre educación vial de forma didáctica. Dentro del área se pueden encontarar un bus escolar, una furgoneta, un trencito, pórticos, lomadas, paneles y resortes.",
+        "link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d820.8763203301322!2d-58.358702559757724!3d-34.61666941353972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a334da305300b5%3A0xc2f4931a9759f357!2sPlaza%20Haroldo%20Conti!5e0!3m2!1ses-419!2sar!4v1666059767783!5m2!1ses-419!2sar",
+        "img1":"img/heras1.jpg",
+        "img2":"img/heras2.jpg",
+        "img3":"img/heras3.jpg"
+    },
+    {
+        "id": 5,
+        "barrio":"Puerto Madero",
+        "nombreLugar":"Reserva Ecológica Costanera Sur", 
+        "ubicacion":"Av. Dr. Tristán Achával Rodríguez", 
+        "descripcion":"La Reserva ecológica Costanera Sur es la reserva natural más grande de la ciudad de Buenos Aires. Posee dos ingresos, el principal es el acceso Sur (ex entrada calle Brasil) y el acceso Norte (ex entrada por la calle Viamonte). Suele estar abierta de martes a domingo de 8 a 18 (horario de invierno) y de 8 a 19 (en verano). Alberga más de 2000 especies animales, entre aves, mamíferos, anfibios, reptiles. Y posee vegetación autóctona, como sus pastizales de cortaderas y bosques de alisos. Cuenta con miradores al Río de la Plata y por sus características, es apto para el senderismo y el avistaje de aves.",
+        "link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13134.679683568533!2d-58.364569891814455!3d-34.612507293079524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a3351f97fbdf97%3A0xc0a4d539dc2254f!2sReserva%20Ecol%C3%B3gica%20Costanera%20Sur!5e0!3m2!1ses-419!2sar!4v1666059874716!5m2!1ses-419!2sar",
+        "img1":"img/heras1.jpg",
+        "img2":"img/heras2.jpg",
+        "img3":"img/heras3.jpg"
+    },
+    {
+        "id": 6,
+        "barrio":"Caballito",
+        "nombreLugar":"PLAZA IRLANDA", 
+        "ubicacion":"Gaona y Tte. Gral. Donato Álvarez", 
+        "descripcion":"La plaza Irlanda es uno de los principales espacios verdes de la ciudad de Buenos Aires. Se encuentra en el barrio de Caballito, justo en el límite con Flores, rodeada por la avenida Gaona, las calles Tte. Gral. Donato Álvarez, Neuquén y Seguí, y es una de las plazas más grandes de la ciudad.",
+        "link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.57991236537!2d-58.46010438491928!3d-34.61478278045668!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca1ea91fd4cf%3A0xbaee7969a08f24df!2sPlaza%20Irlanda!5e0!3m2!1ses-419!2sar!4v1666060649747!5m2!1ses-419!2sar",
+        "img1":"img/heras1.jpg",
+        "img2":"img/heras2.jpg",
+        "img3":"img/heras3.jpg"
+    },
+    {
+        "id": 7,
+        "barrio":"Caballito",
+        "nombreLugar":"Plaza del Ángel Gris", 
+        "ubicacion":"Avellaneda y Tte. Gral. Donato Álvarez", 
+        "descripcion":"La Plaza “Del Ángel Gris” fue inaugurada en septiembre del año 1980, la Ex-Plaza Aramburu fue construida en la manzana delimitada por Tte. Donato Álvarez, Avellaneda, Cálcena y Bogotá. Cambió de nombre en homenaje al personaje de Alejandro Dolina, de acuerdo a una ley sancionada por la Legislatura tras años de lucha de los vecinos de la zona que rechazaban que ese espacio recordara al militar responsable de fusilamientos de junio de 1956.",
+        "link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1641.663687561605!2d-58.457389989439754!3d-34.62116642457161!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca23c666659d%3A0xbc49c2e1846a2565!2sPlaza%20del%20%C3%81ngel%20Gris%20-%20CABA!5e0!3m2!1ses-419!2sar!4v1666060729986!5m2!1ses-419!2sar",
+        "img1":"img/heras1.jpg",
+        "img2":"img/heras2.jpg",
+        "img3":"img/heras3.jpg"
+    },
+    {
+        "id": 8,
+        "barrio":"Caballito",
+        "nombreLugar":"Parque Rivadavia", 
+        "ubicacion":"Rivadavia 4950", 
+        "descripcion":"El Parque Rivadavia, originalmente conocido como Plaza Lezica por haber sido parte de la Quinta Lezica, es un espacio público verde que ocupa una superficie de seis hectáreas, ubicado entre la avenida Rivadavia y las calles Doblas, Chaco, Rosario y Beauchef del barrio de Caballito de la ciudad de Buenos Aires, que fue creado mediante la Ordenanza N° 2702 de la Municipalidad de la Ciudad de Buenos Aires, a partir del 10 de julio de 1928. Sus proyectistas fueron Carlos León Thays (h) y Francisco Lavecchia. Actualmente presenta una gran arboleda, un pequeño lago artificial, el monumento a Simón Bolívar, una antigua noria (única construcción original de la época en que el parque pertenecía a la familia Lezica), un anfiteatro, juegos para niños y una pista de patinaje.",
+        "link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26266.32977433038!2d-58.45143548533348!3d-34.62208022530194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca440ec19097%3A0x30b34282ae8fae18!2sParque%20Rivadavia!5e0!3m2!1ses-419!2sar!4v1666060843404!5m2!1ses-419!2sar",
+        "img1":"img/heras1.jpg",
+        "img2":"img/heras2.jpg",
+        "img3":"img/heras3.jpg"
+    }
+  ]
